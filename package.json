@@ -1,0 +1,24 @@
+{
+  "name": "intro-to-express-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breyshaw/intro-to-express-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/breyshaw/intro-to-express-lab/issues"
+  },
+  "homepage": "https://github.com/breyshaw/intro-to-express-lab#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
